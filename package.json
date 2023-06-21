@@ -7,9 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fabiano S. Ramos",
   "license": "ISC",
   "devDependencies": {
-    "git-commit-msg-linter": "^5.0.4"
+    "@types/node": "^20.3.1",
+    "git-commit-msg-linter": "^5.0.4",
+    "typescript": "^5.1.3"
   }
 }
